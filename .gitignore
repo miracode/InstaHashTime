@@ -60,3 +60,6 @@ target/
 
 # Personal script with client_id and unique hashtags.
 get_my_hashtag_data.py
+
+# Ipython notebook checkpoints
+.ipynb_checkpoints
